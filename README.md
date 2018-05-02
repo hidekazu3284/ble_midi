@@ -1,5 +1,5 @@
 # ble_midi
-以下をもとにArduino環境でBLE MIDIができるように修正しました。
+以下をもとにWiFiBoy32無しでArduino環境でBLE MIDIができるように修正しました。
 
 ●WiFiBoy32 + WB32-SFX BLE-MIDI 數位音源實驗成功！
 
